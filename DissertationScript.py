@@ -18,7 +18,6 @@ from collections import defaultdict, Counter
 from nltk.corpus import stopwords
 from nltk import FreqDist, ConditionalFreqDist
 import datetime
-#import yaml
 from xml.etree import ElementTree
 from difflib import SequenceMatcher
 import json
